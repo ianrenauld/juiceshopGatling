@@ -1,0 +1,13 @@
+# Gradle
+bin/
+build/
+.gradle/
+
+# Maven
+target/
+
+# Visual Studio Code
+.vscode/
+
+# OS
+.DS_Store

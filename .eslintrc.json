@@ -1,0 +1,10 @@
+{
+    "extends": "airbnb-base",
+    "globals": {
+      "karate": true,
+      "java":   true
+    },
+    "rules": {
+      "key-spacing": ["error", { "align": "value" }]
+    }
+  }
