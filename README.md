@@ -2,6 +2,8 @@
 
 Example of performance/load testing with [Karate](https://github.com/intuit/karate) "Web-Services Testing Made Simple" framework integrated with [Gatling](https://gatling.io). Since performing load testing against open APIs on the Internet is generally frowned upon (or might even get you banned), this example uses a locally installed version of [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) to run against, either on the same machine or a different local networked machine.
 
+This repo is meant as a supporting resource from my Karate-Gatling presentation (slides are included in the root directory in file Karate-Gatling 2023.pptx). [A recording of the 2021 version of my talk is available on Youtube](https://www.youtube.com/watch?v=8xbk5LguMVs). Read the slides or listen to the talk before trying to use this framework.
+
 ## Getting started
 
 ### Installing Juice Shop
